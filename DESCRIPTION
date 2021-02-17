@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/cbain1/MATH4753BAIN
 BugReports: https://github.com/cbain1/MATH4753BAIN/issues
+RoxygenNote: 7.1.1
