@@ -1,7 +1,7 @@
 #' Piecewise Function
 #'
-#' @param x
-#' @param coef
+#' @param x a value for x
+#' @param coef the coefficients of the regression items
 #'
 #' @return piecewise regression
 #' @export

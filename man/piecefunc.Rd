@@ -7,7 +7,9 @@
 piecefunc(x, coef)
 }
 \arguments{
-\item{coef}{}
+\item{x}{a value for x}
+
+\item{coef}{the coefficients of the regression items}
 }
 \value{
 piecewise regression
